@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Robert Little</Authors>
+    <Company>Robert Little</Company>
+    <Description>Simply diagnostic timing services using Stopwatch</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/rlittletht/TCore.MicroTimer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rlittletht/TCore.MicroTimer</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
